@@ -51,3 +51,4 @@ function onGallaryCardClick(evt) {
         }  
     }
 }
+console.log(galleryItems);
